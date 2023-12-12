@@ -6,10 +6,8 @@
 
 <br />
 🚀 A list of tools, libs and resources to help you build on Aevo.xyz
-<br />
 
-> [!NOTE]  
-> Feel free to add you own projects
+✏️ Feel free to add you own projects
 
 ### Official resources
 
