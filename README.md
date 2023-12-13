@@ -27,9 +27,15 @@
 ### Community projects
 
 - [Aevo trading tool](https://github.com/GarbageProduction/Aevo-trading-tool/)
+- [Aevo Help bot](https://t.me/aevohelp_bot)
 - [Aevo Info bot](https://github.com/YAMISHKA02/Aevo_tgBot) ([Telegram](https://t.me/aevo_info_bot))
 - [Aevo TG bot](https://github.com/Kantramo/AEVO)
 
 ### Useful resources
 
+- [Official data dashboard](https://aevo.metabaseapp.com/public/dashboard/81ee5b91-fbd2-41a5-90dd-d22771425f26)
+- [Aevo explorer](https://explorer.aevo.xyz/)
+- [Aevo Dune Dashboard 1](https://dune.com/x3research/aevo)
+- [Aevo Dune Dashboard 2](https://dune.com/whizziq/aevo)
 - [ETH Sepolia faucet](https://sepoliafaucet.com/)
+  
