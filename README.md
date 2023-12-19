@@ -29,6 +29,7 @@
 - [Aevo trading tool](https://github.com/GarbageProduction/Aevo-trading-tool/)
 - [Aevo Help bot](https://t.me/aevohelp_bot)
 - [Aevo Info bot](https://github.com/YAMISHKA02/Aevo_tgBot) ([Telegram](https://t.me/aevo_info_bot))
+- [Aevo Listings bot](https://github.com/imankitkumar/aevoalerts) ([Telegram](https://t.me/aevolistings))
 - [Aevo TG bot](https://github.com/Kantramo/AEVO)
 
 ### Useful resources
