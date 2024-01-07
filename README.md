@@ -23,7 +23,7 @@
 - [Python](https://github.com/Alethieum/AlethieumAevoSDK)
 - [Java](https://github.com/Alpha-Serpentis-Developments/Aevo4J)
 - [NodeJS](https://github.com/kelreel/aevo-js-sdk)
-- [Go SD](https://github.com/gogapopp/aevo-go-sdk)
+- [Go SDK](https://github.com/gogapopp/aevo-go-sdk)
 
 ### Community projects
 
