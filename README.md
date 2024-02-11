@@ -33,7 +33,7 @@
 - [Aevo Info bot](https://github.com/YAMISHKA02/Aevo_tgBot) ([Telegram](https://t.me/aevo_info_bot))
 - [Aevo Listings bot](https://github.com/imankitkumar/aevoalerts) ([Telegram](https://t.me/aevolistings))
 - [Aevo TG bot](https://github.com/Kantramo/AEVO)
-- [Aevo Helper bot](https://github.com/dezer1x/Aevo_bot)
+- [Aevo Helper bot](https://github.com/dezer1x/Aevo_bot) ([Telegram](https://t.me/AevoHelper_bot))
 
 ### Useful resources
 
