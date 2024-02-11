@@ -27,12 +27,13 @@
 
 ### Community projects
 
-- [Aevo trader bot](https://t.me/aevo_trader_bot) by Coffee Babe
+- [Aevo trader bot](https://t.me/aevo_trader_bot)
 - [Aevo trading tool](https://github.com/GarbageProduction/Aevo-trading-tool/)
 - [Aevo Help bot](https://t.me/aevohelp_bot)
 - [Aevo Info bot](https://github.com/YAMISHKA02/Aevo_tgBot) ([Telegram](https://t.me/aevo_info_bot))
 - [Aevo Listings bot](https://github.com/imankitkumar/aevoalerts) ([Telegram](https://t.me/aevolistings))
 - [Aevo TG bot](https://github.com/Kantramo/AEVO)
+- [Aevo Helper bot](https://github.com/dezer1x/Aevo_bot)
 
 ### Useful resources
 
